@@ -1,0 +1,55 @@
+<html>
+	<title>  </title>
+	<body Bgcolor = "Black">
+	<head> <h1> <p align = center> <font color = "WHITE">  scheda tecnica ed info </h1> </p> </head>
+		<body> </font> <font color = "white" size = 8> <b>Informazioni generali</b>
+		<br> <p align = left> </font> <font color = "WHITE" size = 5>
+		Marca: <b> </b> <br>
+		Modello: <b> </b> <br>
+		Categoria: <b> </b> <br>
+		Inizio produzione: <b> </b> <br>
+		Fine produzione: <b> </b> <br>
+		Prezzo da: <b> </b> <br>
+			</font> <font color = "white" size = 8> <b>Misure</b> </font> <font color = "WHITE" size = 5> <br><br>
+		Lunghezza: <b> </B> <br>
+		Larghezza: <b> </b> <br>
+		Altezza: <b> </b> <br>
+		Altezza sella da terra: <b> </b> <br>
+		Peso a secco: <b> </b> <br>
+			</font> <font color = "white" size = 8> <b>Motore<font> <font color = "WHITE" size = 5> <br><br>
+		Cilindrata: <b> </b> <br>
+		Tipo motore: <b> </b> <br>
+		Tempi: <b> </b> <br>
+		Cilindri: <b> </b> <br>
+		Raffreddamento: <b> <b> <br>
+		Avviamento: <b> </b> <br>
+		Alimentazione: <b> </b> <br>
+		Frizione: <b> <b> <br>
+		Numero valvole: <b> </b> <br>
+		Potenza: <b> </b> <br>
+		Coppia: <b> </b> <br>
+		Emissionio: <b> </b> <br>
+		Depotenziata: <b>  </b> <br>
+		Tipologia cambio: <b>  </b> <br>
+		Numero marce: <b>  </b> <br>
+		Capacità serbatoio: <b>  </b> <br>
+			</font> <font color = "white" size = 8> <b>Ciclista<font> <font color = "WHITE" size = 5> <br><br>
+		Telaio: <b> </b> <br>
+		Sospensione anteriore: <b>  </b> <br>
+		Escursione anteriore: <b>  </b> <br>
+		Sospensione posteriore: <b> </b> <br>
+		Escursione posteriore: <b> </b> <br>
+		Tipo freno anteriore: <b>  </b> <br>
+		Misura freno anteriore: <b>  </b> <br>
+		Tipo freno posteriore: <b>  </b> <br>
+		Misura freno posteriore: <b>  </b> <br>
+		Abs: <b>  </b> <br>
+		Tipo ruote: <b> </b> <br>
+		Misura cerchio anteriore: <b>  </b> <br>
+		Pneumatico anteriore: <b> V </b> <br>
+		Misura cerchio posteriore: <b>  </b> <br>
+		Pneumatico posteriore: <b>  </b> <br>
+	</body>
+	</font></p>
+	<a href= "Htmlmotosantonocito.html"> indietro </a>
+	
